@@ -47,6 +47,7 @@
     <Compile Include="DTOs\HistorialTestDTO.cs" />
     <Compile Include="DTOs\LoginDTO.cs" />
     <Compile Include="DTOs\PreguntaDTO.cs" />
+    <Compile Include="DTOs\PruebaResultIADTO.cs" />
     <Compile Include="DTOs\RecomendacionesDTO.cs" />
     <Compile Include="DTOs\RespuestaItemDTO.cs" />
     <Compile Include="DTOs\ResultadoIADTO.cs" />
